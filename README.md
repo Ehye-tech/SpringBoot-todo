@@ -10,7 +10,8 @@ This project demonstrates skills in building a to-do task planner app using Java
 - **Sample Data (in SeedData file)**: Adding initial data to the database helps verify the application's functionality before developing the user interface. 💻
 - **Server Startup Logic**: Implement the CommandLineRunner interface to execute code upon server startup, enhancing application performance. 🚀
 - **Source Code**: Access the GitHub repository for the complete source code, encouraging collaboration and further learning. 📂
-- **HTML Templates (Future Implementation)**: Develop HTML templates to create a user-friendly interface for managing tasks.
+- **HTML Templates**: Develop HTML templates to create a user-friendly interface for managing tasks.
+- **Styling**(Future Implementation - maybe you can make this!!): Coloumized tasks for each backlog, doing, and done. Make it User friendly using proper UI/UX approach.
 
 ## Getting Started
 

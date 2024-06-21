@@ -6,7 +6,7 @@ This project demonstrates skills in building a to-do task planner app using Java
 
 ## Key Insights
 - **Project**: To-do task planner application using Java Spring Boot utilizing Docker for containerization and integrates with a MySQL database using JPA (Hibernate) to perform basic data operations (Create, Read, Update, Delete). 📝
-- **Task Management**: Organize tasks into lanes such as backlog, doing, and done, similar to tools like Jira or Trello. 🛠️tion. 📦
+- **Task Management**: Organize tasks into lanes such as backlog, doing, and done, similar to tools like Jira or Trello. 📦
 - **Sample Data (in SeedData file)**: Adding initial data to the database helps verify the application's functionality before developing the user interface. 💻
 - **Server Startup Logic**: Implement the CommandLineRunner interface to execute code upon server startup, enhancing application performance. 🚀
 - **Source Code**: Access the GitHub repository for the complete source code, encouraging collaboration and further learning. 📂

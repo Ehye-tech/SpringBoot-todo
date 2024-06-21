@@ -44,7 +44,7 @@ This project demonstrates skills in building a to-do task planner app using Java
 ### Usage
 - Access the application at `http://localhost:8080`.
 - Add, update, and delete tasks across different lanes (backlog, doing, done).
-- Access the application at `http://localhost:8081` for MySQL on Docker. Before you check MySQL, make sure Docker is on.
+- Access the MySQL on Docker at `http://localhost:8081`. Before you check MySQL, make sure Docker is on.
 
 ### Features
 - **Task Lanes**: Organize tasks into backlog, doing, and done.

@@ -1,0 +1,12 @@
+.col-sm{
+    display-model: inline;
+}
+ul.todo-list {
+    list-style-type: square;
+}
+
+ul.todo-list li {
+    border: lightgrey solid 1px;
+    padding: 5px;
+    cursor: pointer;
+}

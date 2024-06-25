@@ -1,6 +1,4 @@
 package com.example.spring_boot3_with_docker_n_validation.controller;
-
-import ch.qos.logback.core.model.Model;
 import com.example.spring_boot3_with_docker_n_validation.model.StatusType;
 import com.example.spring_boot3_with_docker_n_validation.model.Todo;
 import com.example.spring_boot3_with_docker_n_validation.service.TodoService;

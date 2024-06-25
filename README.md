@@ -1,6 +1,8 @@
 # SpringBoot-todo
 # Todo Planner App with Java Spring Boot 3.2 on Docker with Validation
 
+## Update: adding the feature of Generative AI service: since Open AI JAVA logic has been deprecated, I am trying to connect it to my other Gemini API on NodeJs
+
 ## Summary
 This project demonstrates skills in building a to-do task planner app using Java Spring Boot 3.2. It leverages Docker for containerization, integrates with a MySQL database using JPA (Hibernate) to perform basic data operations (Create, Read, Update, Delete), and implements validation to ensure data integrity. This application utilizes sample data to verify functionality before developing the user interface. Additionally, the CommandLineRunner interface is used to execute code upon server startup, enhancing application performance.
 

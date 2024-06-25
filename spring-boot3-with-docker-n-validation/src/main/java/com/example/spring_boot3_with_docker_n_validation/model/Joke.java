@@ -4,8 +4,8 @@ import lombok.Data;
 
 @Data
 public class Joke {
-    private String content;
-    private String source; // Add more fields as needed
+    private String text;
+//    private String source; // Add more fields as needed
 }
 
 

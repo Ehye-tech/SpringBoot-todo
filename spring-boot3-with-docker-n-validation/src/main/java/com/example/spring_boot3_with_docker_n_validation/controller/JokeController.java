@@ -12,7 +12,7 @@ public class JokeController {
     final JokeService jokeService;
 
     @CrossOrigin(origins = "http://localhost:3000")
-    @PutMapping("/joke")
+    @PutMapping("/joke/{data}")
     public Joke updateJoke(@PathVariable("data") String data) {
 
         return jokeService.getJoke(data);

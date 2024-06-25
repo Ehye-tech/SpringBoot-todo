@@ -11,7 +11,7 @@ const onHandleListItemClick = async (id) => {
     const response = await fetch(`/todos/${id}`, options)
     const data = await response.json()
     console.log('data', data)
-    window.location.reload()
+    // window.location.reload()
 }
 
 $(() => {
